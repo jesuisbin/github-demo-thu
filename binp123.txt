@@ -1,1 +1,1 @@
-abcde
+print("abcde")
