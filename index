@@ -1,3 +1,2 @@
 print ("Check new branch in VSCode")
-a = 1
-print a
+print("test")
